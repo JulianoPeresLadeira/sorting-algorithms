@@ -1,4 +1,4 @@
-package com.test.business;
+package sorting.algorithms.business;
 
 import java.util.ArrayList;
 import java.util.List;

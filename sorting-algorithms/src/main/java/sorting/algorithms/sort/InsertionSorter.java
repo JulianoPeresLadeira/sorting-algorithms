@@ -1,9 +1,9 @@
-package com.test.sort;
+package sorting.algorithms.sort;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.test.business.Sorter;
+import sorting.algorithms.business.Sorter;
 
 public class InsertionSorter<T extends Comparable<T>> extends Sorter<T> {
 
